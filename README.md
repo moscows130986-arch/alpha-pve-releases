@@ -1,4 +1,4 @@
-# ALPHA • РУБЕЖ
+# ALPHA TURBO
 
 Выпуски лаунчера и клиентского пакета ALPHA для **7 Days to Die**.
 
