@@ -2,6 +2,19 @@
 
 Выпуски лаунчера и клиентского пакета ALPHA для **7 Days to Die**.
 
+## Тестовый выпуск для 3.4.0 b6
+
+Клиент **0.2.11**, сервер **0.10.14**, лаунчер **0.1.1**. Игра **3.4.0 b6** обязательна на клиенте и сервере.
+
+- [Скачать новый лаунчер](https://github.com/moscows130986-arch/alpha-pve-releases/releases/download/alpha-turbo-0.10.14/ALPHA_TURBO_LAUNCHER.zip)
+- [Скачать клиент 0.2.11](https://github.com/moscows130986-arch/alpha-pve-releases/releases/download/alpha-turbo-0.10.14/ALPHA_TURBO_CLIENT_0.2.11.zip)
+- [Скачать сервер 0.10.14](https://github.com/moscows130986-arch/alpha-pve-releases/releases/download/alpha-turbo-0.10.14/ALPHA_TURBO_SERVER_0.10.14.zip)
+- [Инструкция и ограничения выпуска](https://github.com/moscows130986-arch/alpha-pve-releases/releases/tag/alpha-turbo-0.10.14)
+
+**Старый EXE лаунчера для 3.3 нужно заменить.** Распакуйте весь новый архив, сохраняя настройки рядом с EXE. После обновления сервера и закрытия игры нажмите «Установить / обновить» в новом лаунчере. Публичный канал переведён на клиент 0.2.11.
+
+Это Pre-release: локальные проверки пройдены, живой игровой и сетевой прогон ещё требуется. Администратор обновляет сервер с резервной копией мира. Новый визуальный макет пока не полностью реализован.
+
 ## Скачать
 
 Готовые файлы размещаются в разделе [Releases](https://github.com/moscows130986-arch/alpha-pve-releases/releases). Отдельный сайт и аккаунт GitHub для скачивания опубликованных файлов не нужны.
